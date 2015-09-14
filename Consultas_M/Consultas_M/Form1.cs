@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Consultas_M
 {
-    public partial class Form1 : Form
+    public partial class sCitas : Form
     {
-        public Form1()
+        public sCitas()
         {
             InitializeComponent();
         }
